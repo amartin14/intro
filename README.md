@@ -12,6 +12,8 @@ $ git commit -m "[Add commit message here]"
 $ git push
 ```
 
+Because the default branch is gh-pages, you can see any changes you push live at http://YOURUSERNAME.github.io/intro/
+
 
 # Tutorials
 
