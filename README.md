@@ -7,6 +7,8 @@ Start by forking this repo and then cloning down to your computer.
 Make any changes you want and push them up using the following from the console:
 
 ```
+$ git add .
+$ git commit -m "[Add commit message here]"
 $ git push
 ```
 
