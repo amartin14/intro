@@ -1,6 +1,6 @@
 # Intro
 
-Nick, this is just a simple git repo to mess around with if you want to start learning javascript.  It's easy to get started, and you'll learn faster than you think you will- and it's a ton of fun.
+This is just a simple git repo to mess around with if you want to start learning javascript.  It's easy to get started, and you'll learn faster than you think you will- and it's a ton of fun.
 
 Start by forking this repo and then cloning down to your computer.
 
